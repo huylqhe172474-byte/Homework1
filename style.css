@@ -1,0 +1,45 @@
+/* Bước 3: Style thẻ body (font chữ và kích thước chữ) */
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+}
+
+/* Bước 4: Style thẻ header (màu nền) */
+header {
+    background-color: #f0f4f8;
+}
+
+/* Bước 5: Style thẻ nav (màu nền) */
+nav {
+    background-color: #2c3e50;
+}
+
+/* Bước 6: Style thẻ main (màu nền và kích thước chữ) */
+main {
+    background-color: #ffffff;
+    font-size: 15px;
+}
+
+/* Bước 7: Style thẻ footer (màu nền) */
+footer {
+    background-color: #333333;
+    color: #ffffff;
+}
+
+/* Bước 8: Style thẻ li (hiển thị dạng khối ngang và chiều rộng) */
+li {
+    display: inline-block;
+    width: 150px;
+}
+
+/* Bước 9: Style thẻ h1 (căn giữa, kiểu chữ và màu sắc) */
+h1 {
+    text-align: center;
+    font-family: Georgia, serif;
+    color: #2c3e50;
+}
+
+/* Bước 10: Style thẻ p (chiều cao dòng) */
+p {
+    line-height: 1.6;
+}
